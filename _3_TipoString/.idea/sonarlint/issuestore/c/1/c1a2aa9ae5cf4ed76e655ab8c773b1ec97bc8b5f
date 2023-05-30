@@ -1,0 +1,13 @@
+
+g
+java:S1192"LDefine a constant instead of duplicating this literal "fullName = " 3 times.(™¹“½üÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·˜ø÷
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™¹“½üÿÿÿÿ
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(è‹Ý“ûÿÿÿÿ8±ÊšÏû0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·˜ø÷
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™¹“½üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™¹“½üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©Ñ‹ëúÿÿÿÿ

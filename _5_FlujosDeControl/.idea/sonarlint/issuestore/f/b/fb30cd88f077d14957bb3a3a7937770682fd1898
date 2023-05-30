@@ -1,0 +1,23 @@
+
+7
+java:S1220""Move this file to a named package.8º‚æÔû0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²­•¾şÿÿÿÿ8Ê‚æÔû0
+W
+java:S1119";Refactor the code to remove this label and the need for it.(øíq8Ê‚æÔû0
+X
+java:S1119";Refactor the code to remove this label and the need for it.(‹õªç8Ê‚æÔû0
+6
+java:S1065"Remove this unused label.(‹õªç8Ê‚æÔû0
+]	java:S125"<This block of commented-out lines of code should be removed.(ú ÙÓşÿÿÿÿ8âªƒÕû0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ö’Ò‹úÿÿÿÿ8Ê‚æÔû0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ê†ƒœÿÿÿÿÿ8Ê‚æÔû0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Òš¾üúÿÿÿÿ8Ê‚æÔû0
+W
+java:S1119";Refactor the code to remove this label and the need for it.(øíq8Ê‚æÔû0
+5
+java:S1065"Remove this unused label.(øíq8ùÚ³¡ü0
+X
+java:S1119 ";Refactor the code to remove this label and the need for it.(‹õªç8Ê‚æÔû0
+X	java:S125#"<This block of commented-out lines of code should be removed.(½°ğò8ùÚ³¡ü0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Ö’Ò‹úÿÿÿÿ8Ê‚æÔû0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Ê†ƒœÿÿÿÿÿ8®óÕû0

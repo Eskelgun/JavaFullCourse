@@ -1,0 +1,13 @@
+
+7
+java:S1220""Move this file to a named package.8Şİ¤™€1
+`
+java:S1226"CIntroduce a new variable instead of reusing the parameter "numero".(äÀè¯8ßİ¤™€1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„Ûşëÿÿÿÿÿ8åİ¤™€1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éË‘¨ûÿÿÿÿ8åİ¤™€1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°ª­Ò8æİ¤™€1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ˆü±ë8æİ¤™€1
+W
+java:S1854":Remove this useless assignment to local variable "numero".(äÀè¯8çİ¤™€1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³›¿ùÿÿÿÿ8çİ¤™€1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³›¿ùÿÿÿÿ8çİ¤™€1

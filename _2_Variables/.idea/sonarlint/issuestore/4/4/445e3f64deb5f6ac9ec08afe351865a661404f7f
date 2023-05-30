@@ -1,0 +1,13 @@
+
+j
+java:S1192"ODefine a constant instead of duplicating this literal "numeroDecimal " 3 times.(•‘˜ôúÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(È·…Þÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Èçèùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(èÕØÂúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(´£ç‚øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­ñüòûÿÿÿÿ
+C
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ

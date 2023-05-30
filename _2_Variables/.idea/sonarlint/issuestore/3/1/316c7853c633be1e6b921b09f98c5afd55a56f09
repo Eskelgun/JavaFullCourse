@@ -1,0 +1,60 @@
+
+f	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢
+0
+java:S1220""Move this file to a named package.
+R
+java:S2589"7Remove this expression which always evaluates to "true"(„Œã„ûÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "numero3".(ØÎÂ÷
+Q
+java:S1854$";Remove this useless assignment to local variable "numero4".(£şœÀ
+W
+java:S1854W"<Remove this useless assignment to local variable "varChar2".(æÚÎşşÿÿÿÿ
+V
+java:S1854T";Remove this useless assignment to local variable "varChar".(¹”ïÎÿÿÿÿÿ
+R
+java:S1854N"=Remove this useless assignment to local variable "varDouble".(µ¾ßJ
+R
+java:S1854I"<Remove this useless assignment to local variable "varFloat".(¦³‘
+V
+java:S1854C";Remove this useless assignment to local variable "varLong".(æ°á¸ÿÿÿÿÿ
+P
+java:S1854@":Remove this useless assignment to local variable "varInt".(Ú‘Ì
+W
+java:S1854="<Remove this useless assignment to local variable "varShort".(ÊÒàîşÿÿÿÿ
+V
+java:S1854:";Remove this useless assignment to local variable "varByte".(î¹½Óùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œß’ß
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ê’ò™üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù¸‘²
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù¸‘²
+N	java:S106"9Replace this use of System.out or System.err by a logger.( ÉÃÙ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•…Óµ
+V	java:S125!"<This block of commented-out lines of code should be removed.(ù¤§µúÿÿÿÿ
+B
+java:S1481$",Remove this unused "numero4" local variable.(£şœÀ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(£©´Œ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(£©´Œ
+D
+java:S14812".Remove this unused "$numerito" local variable.(¢
+G
+java:S1481:",Remove this unused "varByte" local variable.(î¹½Óùÿÿÿÿ
+H
+java:S1481="-Remove this unused "varShort" local variable.(ÊÒàîşÿÿÿÿ
+A
+java:S1481@"+Remove this unused "varInt" local variable.(Ú‘Ì
+G
+java:S1481C",Remove this unused "varLong" local variable.(æ°á¸ÿÿÿÿÿ
+C
+java:S1481I"-Remove this unused "varFloat" local variable.(¦³‘
+C
+java:S1481N".Remove this unused "varDouble" local variable.(µ¾ßJ
+G
+java:S1481T",Remove this unused "varChar" local variable.(¹”ïÎÿÿÿÿÿ
+H
+java:S1481W"-Remove this unused "varChar2" local variable.(æÚÎşşÿÿÿÿ
+G
+java:S1481^",Remove this unused "varTrue" local variable.(—„ªôûÿÿÿÿ
+H
+java:S1481_"-Remove this unused "varFalse" local variable.(²íµüÿÿÿÿ
+Q	java:S125b"<This block of commented-out lines of code should be removed.(© “±

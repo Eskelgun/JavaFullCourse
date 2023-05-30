@@ -1,0 +1,17 @@
+
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(—Öıüÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ŞØ»üÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+P
+java:S1854":Remove this useless assignment to local variable "curso2".(úğ€ÿ
+A
+java:S1481"+Remove this unused "curso2" local variable.(úğ€ÿ
+;
+java:S2129" Remove this "String" constructor(êí®úûÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(¾Ñß§
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹½ø‘
+V	java:S125"<This block of commented-out lines of code should be removed.(ŸÏªÿşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÁòÌ³ûÿÿÿÿ

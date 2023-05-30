@@ -1,0 +1,21 @@
+
+0
+java:S1220""Move this file to a named package.
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ù¯•¨øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Íã–‹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚĞé©üÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(•ºˆ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áÓö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜¾ØÙûÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(˜¾ØÙûÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ÃáÆûÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ÃáÆûÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(Ğö¶üÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(íÖÈÉ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(õšÌú
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ë‚¬½úÿÿÿÿ
+Q	java:S125;"<This block of commented-out lines of code should be removed.(Ùãª’
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(²Ú
+C
+java:S1905@"(Remove this unnecessary cast to "float".(Éığ†øÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(’¥™Ìıÿÿÿÿ

@@ -1,0 +1,18 @@
+
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¼’ÓËùÿÿÿÿ8ÕäÅ‘ÿ0
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¼’ÓËùÿÿÿÿ8ÖäÅ‘ÿ0
+7
+java:S1220""Move this file to a named package.8ÖäÅ‘ÿ0
+]	java:S125
+"<This block of commented-out lines of code should be removed.( şõşşÿÿÿÿ8ÚäÅ‘ÿ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ïÛç©ùÿÿÿÿ8ÜäÅ‘ÿ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.( ÉÃÙ8ÜäÅ‘ÿ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼’ÓËùÿÿÿÿ8ÜäÅ‘ÿ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.( ÉÃÙ8ÜäÅ‘ÿ0
+]	java:S125"<This block of commented-out lines of code should be removed.(‹¼¼ııÿÿÿÿ8ÜäÅ‘ÿ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼’ÓËùÿÿÿÿ8ÜäÅ‘ÿ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«ÏÀÎûÿÿÿÿ8ÜäÅ‘ÿ0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(àı†R8ÜäÅ‘ÿ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÁ8İäÅ‘ÿ0
