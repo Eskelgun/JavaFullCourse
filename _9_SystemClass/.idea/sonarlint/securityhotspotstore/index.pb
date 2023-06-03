@@ -7,3 +7,5 @@ L
 src/PropiedadesAmbiente.java,b\b\bbe23bcbc34bc50e908d92988ff4f02324e655f4
 Q
 !src/CrearPropiedadesAmbiente.java,1\e\1ef0a8e2820d1deb7a2c1ca7a6a24812dbbb5be3
+M
+src/EjecutarAplicacionSO.java,6\b\6b68726e1747fc75a5fad45a35822d4bb1207b66
