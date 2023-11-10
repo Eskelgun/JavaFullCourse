@@ -1,0 +1,10 @@
+
+7
+java:S1220""Move this file to a named package.8ØÖ…Œ1
+Z
+java:S1854"=Remove this useless assignment to local variable "fullName2".(‚²°ö8àÖ…Œ1
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(™¹“½üÿÿÿÿ8âÖ…Œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ¦ÆŒøÿÿÿÿ8ãÖ…Œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(áÿ¼¾8ãÖ…Œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»å‘ìùÿÿÿÿ8ãÖ…Œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©Ñ‹ëúÿÿÿÿ8òÖ…Œ1

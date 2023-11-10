@@ -9,7 +9,7 @@ public class EjecutarAplicacionSO {
 
     if(System.getProperty("os.name").toLowerCase().contains("windows")){
       try {
-        proceso = runtime.exec("notepad1");
+        proceso = runtime.exec("notepad");
         proceso.waitFor();
       } catch (IOException | InterruptedException e) {
         e.printStackTrace();
@@ -18,7 +18,7 @@ public class EjecutarAplicacionSO {
       }
     }
 
-    System.out.println("Ha finalizado el proceso");
+    System.out.println("Ha finálizado el proceso");
 
   }
 }

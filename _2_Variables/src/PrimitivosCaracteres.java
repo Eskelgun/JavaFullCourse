@@ -2,12 +2,13 @@ public class PrimitivosCaracteres {
 
   public static void main(String[] args) {
 
-//    Se representan los caracteres con el unicode del SO o su valor decimal
+    /*https://www.ssec.wisc.edu/~tomw/java/unicode.html*/
+//    Se representan los caracteres con el unicode del SO o su valor decimal 
 
     char caracterUnicode = '\u0040';
     System.out.println("caracterUnicode = " + caracterUnicode);
 
-    char decimal = 64;
+    char decimal = 257;
     System.out.println("decimal = " + decimal);
 
     System.out.println("Tipo char corresponde en Bytes a " + Character.BYTES);

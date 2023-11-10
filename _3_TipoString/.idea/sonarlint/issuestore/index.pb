@@ -1,7 +1,5 @@
 
 F
-src/Concatenacion.java,4\0\4032d6f3483a984d51426b2e3a161cd08a6559be
-F
 src/EjemploString.java,f\6\f6a042d34cc9ab1b8cbd6c0f62da329087e76c64
 I
 src/extensionArchivo.java,e\1\e1bf196ead7b2b6e78d460b25277eafeb7a1e550
@@ -21,3 +19,5 @@ A
 _3_TipoString.iml,a\f\af79f9c31a2a770e2e1d2c4e5d819d499494a1f9
 F
 src/Inmutabilidad.java,c\1\c1a2aa9ae5cf4ed76e655ab8c773b1ec97bc8b5f
+F
+src/Concatenacion.java,4\0\4032d6f3483a984d51426b2e3a161cd08a6559be

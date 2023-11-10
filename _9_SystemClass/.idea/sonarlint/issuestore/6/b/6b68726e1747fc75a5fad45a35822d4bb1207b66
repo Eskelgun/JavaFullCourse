@@ -1,6 +1,6 @@
 
 7
 java:S1220""Move this file to a named package.8ùÒ…Ğ†1
-N
-java:S1874",Remove this use of "exec"; it is deprecated.(ˆíÓçşÿÿÿÿ8„Ó…Ğ†1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(½·ßàøÿÿÿÿ8İ¨ˆĞ†1
+I
+java:S1874",Remove this use of "exec"; it is deprecated.(³­‹´8ÿéë„Œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‘×º8İ¨ˆĞ†1
